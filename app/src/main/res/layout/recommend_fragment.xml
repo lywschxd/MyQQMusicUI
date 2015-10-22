@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:orientation="vertical"
+              android:background="@android:color/holo_red_light"
               android:layout_width="match_parent"
               android:layout_height="match_parent">
-    <TextView
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:textSize="40px"-->
+        <!--android:text="推荐1"/>-->
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/con"
+        android:background="@android:color/darker_gray"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="推荐"/>
+        android:layout_height="match_parent"></LinearLayout>
 </LinearLayout>

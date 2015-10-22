@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">MyQQMusicUi</string>
+    <string name="btn_user_name">我的</string>
+    <string name="btn_recommend_name">推荐</string>
+    <string name="btn_radio_name">电台</string>
+    <string name="btn_ranking_name">排行</string>
+    <string name="btn_singer_name">歌手</string>
+
+    <string name="music_name">曾经的你 - 许巍</string>
+
+    <!--user-->
+    <string name="user_name_login">登录</string>
+    <string name="user_tips_login">可云同步收藏</string>
+    <string name="user_name_collect">收藏</string>
+    <string name="user_name_history">历史</string>
+    <string name="user_name_feedback">反馈</string>
+
 </resources>

@@ -2,6 +2,14 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="indicator_btn_sytle" >
+        <item name="android:textSize">@dimen/indicator_btn_text_size</item>
+        <item name="android:textColor">@color/indicator_btn_text_color</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_marginLeft">50dp</item>
     </style>
 
 </resources>
